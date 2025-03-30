@@ -85,7 +85,7 @@ This plugin wouldn't exist without:
 ---
 
 ## ❓ Need Help? Found a Bug?
-[Open an issue](https://github.com/chirag-gamer/GraveLoot/issues) • [Email Support](mailto:your@email.com)
+[Open an issue](https://github.com/chirag-gamer/GraveLoot/issues) • [Email Support](mailto:help@chiraggamer.com)
 
 ```text
 MIT License © 2024 chiraggamer
