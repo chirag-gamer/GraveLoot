@@ -1,6 +1,6 @@
 name: DeathChest
 version: 1.0.0
-main: DeathChest\Main
+main: graveloot\Main
 api: 5.0.0
 authors:
   - chiraggamer
