@@ -1,4 +1,4 @@
-<details type="reasoning" done="true" duration="6">
+
 # Graveloot 🌟  
 **Smart Death Chests for Modern Minecraft Servers**
 
